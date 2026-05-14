@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# build output
+dist
+
+# editor / OS
+.DS_Store
+.vscode
+.idea
+
+# vercel (no longer used)
+.vercel
+
+# env
+.env
+.env.local
+.env.*.local
